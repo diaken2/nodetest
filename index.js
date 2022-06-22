@@ -73,3 +73,6 @@ app.get("/sd",(req,res)=>{
 app.get("/dfdf",(req,res)=>{
         res.render("dfdf")
     })
+app.get("/kenan",(req,res)=>{
+        res.render("kenan")
+    })
